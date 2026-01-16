@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing and design.
 - 🌱 BS Informations Technology 
 - 😄 Pronouns: He/Him
-- ⚡ HTML, CSS, C++
+- ⚡ HTML, CSS, C++, Java, JavaScript
 
 <!---
 pjcb-a/pjcb-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
