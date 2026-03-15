@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pjcb-a
-- 👀 I’m interested in drawing and design.
 - 🌱 BS Informations Technology 
 - 😄 Pronouns: He/Him
-- ⚡ HTML, CSS, C++, Java, JavaScript
+- ⚡ HTML, CSS, C++, Java, JavaScript, Python, Flask, C, Vue.js
 
 <!---
 pjcb-a/pjcb-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
